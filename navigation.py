@@ -77,7 +77,7 @@ def navigation(browser):
     #                 error = True
     #                 # page_count += 1
     #     else:        
-    #         error = False
+    #         error = Falseg
     #     # else:
     #     #     error = False
 
